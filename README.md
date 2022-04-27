@@ -6,6 +6,11 @@
 ## ![Image Link](docs/Screenshot%20from%202022-04-28%2000-57-40.png)
 
 ---
+## Tech Stack
+
+**Data preprocessing:** Pandas, Numpy, Matplotlib <br/>
+**Machine Learning:** [Tensorflow](https://www.tensorflow.org/), [Scikit-learn](https://scikit-learn.org/stable/) <br/>
+---
 #### Above notebooks are tensorflow deep learning models. It is a classification model which follows the concept of `Attention Transformers` since this is a natural language processing challenge.
 
 ---
