@@ -51,11 +51,14 @@ _________________________________________________________________
 ## __Model evaluation__
 
 `Accuracy` [model version 2](model-v2.ipynb) met is plotted in the figure below
-![image link](docs/accuracy.png)
+<p align="left">
+    <img src="docs/accuracy.png">
+</p>
 
 `Loss` [model version 2](model-v2.ipynb) met is plotted in the figure below
-![image link](docs/loss.png)
-
+<p align="left">
+    <img src="docs/loss.png">
+</p>
 ---
 
 ### __this models evaluations and accuracies are not good yet. still finding a perfect way to improve the last version__
